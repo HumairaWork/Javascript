@@ -23,6 +23,10 @@ JavaScript was first known as LiveScript, but Netscape changed its name to JavaS
 -> Complementary to and integrated with HTML.
 -> Open and cross-platform
 
+
+what is the difference between interpreter and compiler ?
+
+
 -> MOST FAMOUS BROWSER AND THEIR JAVASCRIPT INGINE ->
 Chrome - V8
 Safari - JavaScriptCore
@@ -50,7 +54,7 @@ V1 .. .. 2015 ES6
 
 Q1-what are the new features in ES6?
 There are many new features are add in ES6. 
--> The let keyword
+-> The let keyword  
 -> The const keyword
 -> Arrow Functions
 -> The ... Operator
